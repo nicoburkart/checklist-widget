@@ -12,6 +12,8 @@ Linear, and Notion use to get new users to their "aha" moment fast. Built with
 It's a single component file. Copy it in, install the primitives it uses, set
 your tasks, and wire it to your database.
 
+![The Checklist Widget docked in the corner of a dashboard](docs/screenshot.png)
+
 ## Installation
 
 1. Make sure your project has shadcn/ui set up:
