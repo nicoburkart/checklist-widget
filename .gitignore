@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local agent / skill tooling (not part of the widget)
+.agents/
+.claude/
+.mcp.json
+skills-lock.json
